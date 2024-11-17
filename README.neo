@@ -1,0 +1,23 @@
+-- title
+
+MP4 Scrubber
+
+This is my tool for prepping MP4s for using
+on websites. It removes any black bars and
+drops any audio tracks. 
+
+-- notes
+
+- The process starts in the <<path|input_dir>>
+
+- It searches recursively for any 
+<<path|raw-mp4s>> directories and any <<path|.mp4>>
+files in them
+
+- When it finds one it runs the ffmpeg scrubbing
+process on it and drops it into a sibling 
+<<path|cropped-mp4s>> directory
+
+
+
+
