@@ -25,7 +25,7 @@ it makes it
 
 A crop for a video might start out like this:
 
-<img width="2032" alt="starting-with-black-bar" src="https://github.com/user-attachments/assets/ba75b678-913c-4954-b3ee-4168e269f058">
+<img width="2032" alt="Screen capture of a video player with the center portion showing an image of a man looking at the camera. He's surrounded by all sides by black bars that are the result of cropping in on the image" src="https://github.com/user-attachments/assets/ba75b678-913c-4954-b3ee-4168e269f058">
 
 After running it through the process, this is the clip:
 
