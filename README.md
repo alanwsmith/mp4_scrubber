@@ -1,6 +1,4 @@
--- title
-
-MP4 Scrubber
+# MP4 Scrubber
 
 This is my tool for prepping MP4s for using on websites. 
 It removes the audio and any black bars on the video. I 
@@ -8,7 +6,7 @@ set this up because I make a lot of clips in DaVinci
 Resolve and it's a pain to resize the output in it 
 when I crop in. 
 
--- notes
+## Notes
 
 - The process starts in the ``source_dir``
 
@@ -23,7 +21,8 @@ sibling of ``raw``)
 - If there's no ``cropped/FILENAME.mp4`` file 
 it makes it
 
--- todo
+
+## Todo
 
 - Create the ``cropped`` directory if it doesn't
 already exist
